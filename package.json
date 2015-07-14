@@ -1,0 +1,32 @@
+{
+  "name": "minpatch",
+  "version": "0.0.0",
+  "description": "Reduces JSON patches to be less verbose. Saves you precious bytes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jprichardson/minpatch.git"
+  },
+  "keywords": [
+    "JSON",
+    "JSON",
+    "patch",
+    "patch",
+    "RFC",
+    "6902",
+    "compress",
+    "compression",
+    "diff",
+    "pack",
+    "unpack"
+  ],
+  "author": "JP Richardson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jprichardson/minpatch/issues"
+  },
+  "homepage": "https://github.com/jprichardson/minpatch#readme"
+}
