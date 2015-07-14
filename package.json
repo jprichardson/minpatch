@@ -1,6 +1,6 @@
 {
   "name": "minpatch",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Reduces JSON patches to be less verbose. Saves you precious bytes.",
   "main": "index.js",
   "scripts": {
